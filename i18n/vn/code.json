@@ -12,11 +12,11 @@
     "description": "Error message when any image could not be loaded."
   },
   "image.loader.loading": {
-    "message": "Đang tái...",
+    "message": "Đang tải...",
     "description": "Loading message of all image in document"
   },
   "image.loader.success": {
-    "message": "Loading done!",
+    "message": "Tải xong!",
     "description": "A message on any image when the loading is done"
   },
   "util.keyword.minecraft": {
@@ -36,7 +36,7 @@
     "description": "A hero title of homepage document"
   },
   "home.banner.subtitle": {
-    "message": "We are building southeast asia in Minecraft 1:1 scale!",
+    "message": "Chúng tôi đang xây dựng Đông Nam Á trong Minecraft với tỉ lệ 1:1!",
     "description": "A hero description of homepage document"
   },
   "home.infoBox.ip": {
@@ -52,7 +52,7 @@
     "description": "Bedrock label at homepage"
   },
   "home.infoBox.requirement": {
-    "message": "Requirements",
+    "message": "Yêu cầu",
     "description": "Requirements box at homepage"
   },
   "home.infoBox.requirement.content": {
@@ -60,7 +60,7 @@
     "description": "the first and only requirement in the homepage requirement box"
   },
   "home.infoBox.requirement.content.description": {
-    "message": "[Java Edition](https://www.minecraft.net/en-us/store/minecraft-java-edition) and [Bedrock Edition](https://minecraft.fandom.com/wiki/Bedrock_Edition) are supported.",
+    "message": "Cả [Phiên bản Java](https://www.minecraft.net/en-us/store/minecraft-java-edition) và [Phiên bản Bedrock](https://minecraft.fandom.com/wiki/Bedrock_Edition) đều được hỗ trợ.",
     "description": "Extra foldout section of Minecraft in homepage describing we supports all version of it"
   },
   "home.infoBox.requirement.cracked-1": {
